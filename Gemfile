@@ -32,6 +32,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'paperclip'
 
+gem 'sorcery'
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
